@@ -1,5 +1,5 @@
 # MANCA-NEW
-BOT WHATSAPP TERMUX ONLY BY NurulCans
+BOT WHATSAPP TERMUX ONLY BY NURUL CANS
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
